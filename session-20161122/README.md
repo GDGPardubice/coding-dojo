@@ -17,7 +17,8 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 - The number is "Buzz" if it is divisible by 5 or if it has a 5 in it.
 
 ## References
-[codingdojo.org](http://codingdojo.org/kata/FizzBuzz/)
+
+- [codingdojo.org](http://codingdojo.org/kata/FizzBuzz/)
 
 ## Session
 

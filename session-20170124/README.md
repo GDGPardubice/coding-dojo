@@ -30,7 +30,8 @@ Field #x:
 Where x stands for the number of the field (starting from 1). The next n lines should contain the field with the “.” characters replaced by the number of adjacent mines to that square. There must be an empty line between field outputs.
 
 ## References
-[codingdojo.org](http://codingdojo.org/kata/Minesweeper/)
+
+- [codingdojo.org](http://codingdojo.org/kata/Minesweeper/)
 
 ## Session
 

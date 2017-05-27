@@ -42,7 +42,8 @@ Create range functions:
 - ```[3,5)``` neq ```[2,10)```
 
 ## References
-[codingdojo.org](http://codingdojo.org/kata/Range/)
+
+- [codingdojo.org](http://codingdojo.org/kata/Range/)
 
 ## Session
 

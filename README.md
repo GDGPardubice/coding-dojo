@@ -1,4 +1,4 @@
-﻿#Coding Dojo
+﻿# Coding Dojo
 
 Pokud chce někdo mistrně ovládnout bojové umění, nezbývá mu než pravidelně a tvrdě trénovat, poznávat nové taktiky, učit se od soupeřů. V programování je to podobné. Pokud chce být někdo skvělý programátor, musí se také neustále učit, trénovat a brát si to nejlepší z toho, jak to dělají ostatní.  
 

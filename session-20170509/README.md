@@ -17,8 +17,9 @@ A poker hand consists of 5 cards dealt from the deck. Poker hands are ranked by 
 - **Straight flush**: 5 cards of the same suit with consecutive values. Ranked by the highest card in the hand.
 
 ## References
-[CodingDojo.org](http://codingdojo.org/kata/PokerHands/)
-[IvanSanchez blog](isanchez.net/2009/04/19/ruby-coding-dojo-this-week/)
+
+- [CodingDojo.org](http://codingdojo.org/kata/PokerHands/)
+- [IvanSanchez blog](isanchez.net/2009/04/19/ruby-coding-dojo-this-week/)
 
 ## Session
 

@@ -29,7 +29,8 @@ So the “g” flag indicates a list of strings, [“this”, “is”, “a”,
 Make sure your code is extensible, in that it is straightforward and obvious how to add new types of values.
 
 ## References
-[CodingDojo.org](http://codingdojo.org/kata/Args/)
+
+- [CodingDojo.org](http://codingdojo.org/kata/Args/)
 
 ## Session
 
