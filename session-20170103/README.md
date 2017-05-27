@@ -1,4 +1,4 @@
-﻿#Problem Description
+﻿# Problem Description
 
 Most of us have had to parse command-line arguments from time to time. If we don’t have a convenient utility, then we simply walk the array of strings that is passed into the main function. There are several good utilities available from various sources, but they probably don’t do exactly what we want. So let’s write another one!
 
@@ -28,10 +28,10 @@ So the “g” flag indicates a list of strings, [“this”, “is”, “a”,
 
 Make sure your code is extensible, in that it is straightforward and obvious how to add new types of values.
 
-##References
+## References
 [CodingDojo.org](http://codingdojo.org/kata/Args/)
 
-##Session
+## Session
 
 - **Date**: 03. 01. 2017
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky

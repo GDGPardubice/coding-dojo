@@ -1,7 +1,7 @@
-﻿#Problem Description
+﻿# Problem Description
 We have a integer range which is declared by string. We want find out lower and upper boundery and if they are opened or closed.
 
-##Range Rules
+## Range Rules
 Correct record:
 ```
 <3;6>
@@ -11,7 +11,7 @@ Correct record:
 < -3; 5)
 ```
 
-##Extensions
+## Extensions
 Create range functions:
 
 - ```[2,6)``` contains ```{2,4}```
@@ -41,10 +41,10 @@ Create range functions:
 - ```[2,5)``` neq ```[3,10)```
 - ```[3,5)``` neq ```[2,10)```
 
-##References
+## References
 [codingdojo.org](http://codingdojo.org/kata/Range/)
 
-##Session
+## Session
 
 - **Date**: 14. 02. 2017
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky

@@ -1,7 +1,7 @@
-﻿#Problem Description
+﻿# Problem Description
 We have a square matrix of characters which consist some words in any direction.
 
-##Word Puzzle Rules
+## Word Puzzle Rules
 
 - Find word in horizontal direction. (From left to right)
 - Find word in vertical direction. (From top to bottom)
@@ -12,13 +12,13 @@ We have a square matrix of characters which consist some words in any direction.
 - Find word in backward main diagonal direction. (from bottom right to top left)
 - Find word in secondary diagonal direction. (from bottom left to top right)
 
-##Extensions
+## Extensions
 
 - Use rectangle matrix of characters instead of square matrix.
 
-##References
+## References
 
-##Session
+## Session
 
 - **Date**: 28. 03. 2017
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky

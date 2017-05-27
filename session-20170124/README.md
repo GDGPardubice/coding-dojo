@@ -1,4 +1,4 @@
-﻿#Problem Description
+﻿# Problem Description
 Have you ever played Minesweeper? It’s a cute little game which comes within a certain Operating System whose name we can’t really remember. Well, the goal of the game is to find all the mines within an MxN field. To help you, the game shows a number in a square which tells you how many mines there are adjacent to that square. For instance, take the following 4x4 field with 2 mines (which are represented by an * character):
 
 ```
@@ -29,10 +29,10 @@ Field #x:
 
 Where x stands for the number of the field (starting from 1). The next n lines should contain the field with the “.” characters replaced by the number of adjacent mines to that square. There must be an empty line between field outputs.
 
-##References
+## References
 [codingdojo.org](http://codingdojo.org/kata/Minesweeper/)
 
-##Session
+## Session
 
 - **Date**: 24. 01. 2017
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky
