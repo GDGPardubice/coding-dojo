@@ -1,4 +1,6 @@
-﻿# Problem Description
+﻿# Args
+
+## Problem Description
 
 Most of us have had to parse command-line arguments from time to time. If we don’t have a convenient utility, then we simply walk the array of strings that is passed into the main function. There are several good utilities available from various sources, but they probably don’t do exactly what we want. So let’s write another one!
 

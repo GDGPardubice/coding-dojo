@@ -1,4 +1,6 @@
-﻿# Problem Description
+﻿# Word Puzzle
+
+## Problem Description
 We have a square matrix of characters which consist some words in any direction.
 
 ## Word Puzzle Rules

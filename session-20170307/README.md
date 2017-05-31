@@ -1,4 +1,6 @@
-﻿# Problem Description
+﻿# Range
+
+## Problem Description
 We have a integer range which is declared by string. We want find out lower and upper boundery and if they are opened or closed.
 
 ## Range Rules
@@ -49,5 +51,5 @@ Create range functions:
 
 - **Date**: 07. 03. 2017
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky
-- **Participants**: Emil Řezanina, Jan Voráček, Vojtěch Müller, David Boucník, Tomáš Kalina
+- **Participants**: Emil Řezanina, Vojtěch Müller, David Boucník, Tomáš Kalina
 - **IDE/Language**: Visual Studio 2015/C#

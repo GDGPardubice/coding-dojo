@@ -1,4 +1,6 @@
-﻿# Problem Description
+﻿# Range
+
+## Problem Description
 We have a integer range which is declared by string. We want find out lower and upper boundery and if they are opened or closed.
 
 ## Range Rules

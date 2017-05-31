@@ -1,4 +1,6 @@
-﻿# Problem Description
+﻿# Pacman
+
+## Problem Description
 Pacman finds himself in a grid filled with monsters. Will he be able to eat all the dots on the board before the monsters eat him?
 
 ## Pacman rules description
