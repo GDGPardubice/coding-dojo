@@ -27,5 +27,5 @@ A poker hand consists of 5 cards dealt from the deck. Poker hands are ranked by 
 
 - **Date**: 05. 12. 2017
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky
-- **Participants**: Emil Řezanina, Václav Pavlíček, Vojtěch Müller, Ma, rtin Helešic, Lukáš Jech, Lukáš Trumm, Tomáš Tintěra, Petr Filip
+- **Participants**: Emil Řezanina, Václav Pavlíček, Vojtěch Müller, Martin Helešic, Lukáš Jech, Lukáš Trumm, Tomáš Tintěra, Petr Filip
 - **IDE/Language**: Visual Studio 2017/xUnit/C#
