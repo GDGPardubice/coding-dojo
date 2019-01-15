@@ -21,7 +21,7 @@ The scoring system is rather simple:
 
 - If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “advantage” for the player in the lead.
 
-##Example solutions
+## Example solutions
 
 - http://github.com/follesoe/TennisKataJava Example solution in Java from Trondheim Coding Dojo
 - http://github.com/goeran/Katas/tree/master/Tennis/csharp/2ndTry/ Example solution in .NET
