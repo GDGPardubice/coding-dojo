@@ -1,4 +1,4 @@
-# KataMinesweeper
+# Tennis
 
 ## About this Kata
 This Kata is about implementing a simple tennis game. I came up with it while thinking about Wii tennis, where they have simplified tennis, so each set is one game.
@@ -21,13 +21,21 @@ The scoring system is rather simple:
 
 - If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “advantage” for the player in the lead.
 
+##Example solutions
+
+- http://github.com/follesoe/TennisKataJava Example solution in Java from Trondheim Coding Dojo
+- http://github.com/goeran/Katas/tree/master/Tennis/csharp/2ndTry/ Example solution in .NET
+- https://github.com/lroal/Roald/tree/master/src/Roald.Katas Example solution in .NET with state transition tree
+- https://github.com/keithn/vsvimguide/blob/master/Examples/Kata.Tennis/TennisScoring.cs Simple one file example in C# .NET Core
+
+
 ## References
 
-- [codingdojo.org](http://codingdojo.org/kata/Minesweeper/)
+- [codingdojo.org](http://codingdojo.org/kata/Tennis/)
 
 ## Session
 
-- **Date**: 11. 12. 2018
+- **Date**: 15. 1. 2019
 - **Place**: Univerzita Pardubice - Fakulta Elektrotechniky a Informatiky
-- **Participants**: Václav Pavlíček, Emil Řezanina, Jan Voráček, Lukáš Cehlár, Petr Filip, Vojtěch Mühler, Pavel Jetenský
+- **Participants**: Václav Pavlíček, Emil Řezanina, Jan Voráček, Petr Filip, Tomáš Kalina, Jan Jaroš
 - **IDE/Language**: Visual Studio Code/Clojure
