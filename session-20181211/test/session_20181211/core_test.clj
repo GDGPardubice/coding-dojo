@@ -25,3 +25,5 @@
   (testing "Mines count at (1, 1) of board with mine on position (0, 0)(1,0) is 0."
     (is (= 2 (mines-count #{[0 0][1 0]} 1 1))))
 )
+
+(+ 1 2)

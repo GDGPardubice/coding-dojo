@@ -18,5 +18,3 @@
   [mines x y]
     (count (filter #(contains? mines %1) (neighbours x y)))
 )
-
-
