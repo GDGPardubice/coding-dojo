@@ -1,4 +1,4 @@
-﻿# Coding DOjo
+﻿# Coding Dojo
 
 ## About this Kata
 
