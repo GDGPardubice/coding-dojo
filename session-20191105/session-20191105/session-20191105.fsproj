@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>session_20191105</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+</Project>
